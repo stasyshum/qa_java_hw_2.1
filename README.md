@@ -8,7 +8,7 @@
 
  ### В результате тестирования выявлены следующие дефекты: ###
 
-1 [Баг-репорт №1 Неверное суммирование денежных средств в текущем счете Money Transfer ](https://github.com/stasyshum/qa_java_hw_2.1/issues/1 )  
+1 [Неверное суммирование денежных средств в текущем счете Money Transfer ](https://github.com/stasyshum/qa_java_hw_2.1/issues/1 )  
 
 
 
